@@ -3,18 +3,18 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """
-Hi {} 🥰
+<b>Hi {} 🥰
 
-💡 `I am Telegram most Powerful Url Uploader Bot`
+💡 `I am Telegram most Powerful Url Uploader Bot`</b>
 
 <b>⚙️ Press /settings to change my settings</b>
 
-Use help button to know how to use me
+</b>Use help button to know how to use me</b>
 
-🦊 <b>Maintained By</b> : [Tellybots](https://telegram.me/TellyBots)
+🦊 <b>Maintained By</b> <b>: [HMTD Movies](https://www.hmtdmovies.tk)</b>
 """
     HELP_TEXT = """
-You need Help ?? 😅
+<b>You need Help ?? 😅
    
 ✵ First go to the /settings and change the bot behavior as your choice.
 
@@ -28,27 +28,27 @@ You need Help ?? 😅
 
 ✵ Use `/caption` to Set caption as Reply to Media
 
-Maintained By : [Tellybots](https://telegram.me/TellyBots)
+Maintained By : [HMTD Movies](https://www.hmtdmovies.tk)</b>
  
 """
     ABOUT_TEXT = """
-**♻️ My Name** : [Url Uploader Bot](http://t.me/TellyUploaderRobot)
+**♻️ My Name** **: [URL Uploader Bot](http://t.me/HMTD_URL_Uploader_Bot)**
 
-**🌀 Channel** : [Tellybots](https://t.me/TellyBots)
+**🌀 Channel** **: [HMTD Links](https://t.me/HMTD_Links)**
 
-**⚗️ Version** : [4.0 Beta](https://t.me/TellyUploaderRobot)
+**🌐 Website** **: [HMTD Movies](https://www.hmtdmovies.tk)**
 
-**🌠 Source** : [Click Here](https://t.me/tellybots_digital)
+**🌠 Source** **: [Click Here](https://t.me/HMTD_Links)**
 
-**🌺 Heroku** : [Heroku](https://heroku.com/)
+**🌺 Heroku** **: [Heroku](https://heroku.com/)**
 
-**📑 Language :** [Python 3.10.5](https://www.python.org/)
+**📑 Language** **: [Python 3.10.5](https://www.python.org/)**
 
-**🇵🇲 Framework :** [Pyrogram 2.0.30](https://docs.pyrogram.org/)
+**🇵🇲 Framework** **: [Pyrogram 2.0.30](https://docs.pyrogram.org/)**
 
-**👲 Developer :** [Tellybots](https://t.me/tellybots)
+**👲 Developer** :** [HMTD Links](https://t.me/HMTD_Links)**
 
-**🦊 Maintained By :** [NaysaBots](https://t.me/NaysaBots)
+**🦊 Maintained By** **: [HMTD Movies](https://www.hmtdmovies.tk)***
 
 """
 
